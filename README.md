@@ -1,4 +1,4 @@
 # Perfect-Maze-Unity
 Unity project showcasing 2 animated perfect maze algorithms
 
-https://i.imgur.com/WIDaJGx.gif
+https://i.imgur.com/hf1MyJM.gif
